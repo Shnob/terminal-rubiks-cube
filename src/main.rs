@@ -1,4 +1,3 @@
-use colored::Colorize;
 
 mod rubiks_cube;
 use rubiks_cube::Cube;
